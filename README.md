@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Priyanka Maletia, Developer at TCS, Bangalore.
+- 👋 Hi, I’m Priyanka Maletia, Senior Analyst at Tiger Analytics, Bangalore.
 - 👀 I’m interested in Machine Learning, Computer Vision, Automation, Visualization using web apps
 - 🌱 I’m currently learning more about how to create ML algos.
 - 💞️ I’m looking to collaborate on anything...just drop me hi and let me know what you want me to help you with
