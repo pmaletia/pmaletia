@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyanka Maletia, Senior Analyst at Tiger Analytics, Bangalore.
 - 👀 I’m interested in Machine Learning, Computer Vision, Automation, Visualization using web apps
-- 🌱 I’m currently learning more about how to create ML algos.
+- 🌱 I’m currently learning more about basic and medium data science concepts, including the maths and the ML algos.
 - 💞️ I’m looking to collaborate on anything...just drop me hi and let me know what you want me to help you with
 - 📫 Just reach me on gmail. My id is pmaletia@gmail.com. You can also reach me on my linkedin profile -> https://www.linkedin.com/in/pmaletia/
