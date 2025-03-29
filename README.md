@@ -1,34 +1,16 @@
-# Priyanka Maletia
+🚀 Backend Engineer | System Architect | DevOps Enthusiast
 
-## Overview
-Hello! I’m Priyanka, a Software Development Engineer III at AB InBev. I specialize in problem-solving and creating optimized and scalable projects and solutions. I am passionate about leveraging technology to bring about change in the world and solve problems to help our civilization.
+👋 Hey there! I’m Priyanka Maletia, a backend engineer who loves designing scalable, high-performance systems and optimizing microservices like a Tetris master.
 
-## Skills & Technologies
-Languages: Python, JavaScript, HTML
-Frameworks & Libraries: Django, Flask, Fastapi, React
-Tools: Docker, Kubernetes, Git, Github, Jenkins, DataDog
-Specializations: Architecture Design, Problem-Solving, Algorithm Development, Basic DevOps
+💡 When I’m not busy wrangling APIs with FastAPI, Flask, and Django, you’ll find me automating workflows, taming RabbitMQ queues, and deploying cloud-native solutions on Azure & GCP.
 
-## Projects
-Here are a few highlights of my work:
+📊 I speak Python fluently, dream in Docker & Kubernetes, and have an on-again, off-again relationship with debugging.
 
-- Sentiment Analysis Of Etsy Website: An application to show the sentiment analysis of Etsy products as well as a word map, a mechanism to check if a given sentence is positive or negative.
-Feel free to check out my repositories to explore these projects in detail.
+🔍 Passionate about system architecture, automation, and building things that just work—because who likes downtime?
 
-## Achievements
-- Achievement 1: Part of a team that automated and streamlined the testing process, including various market products for testing their in-house application. Helped them to test and maintain results in their used applications with a single click
-- Achievement 2: Part of the team that converted algorithms to a service using Kubernetes, GCP cloud, and a node js application. It helped us add these applications to various UIs and One Pega applications. I also made a UI to help see the results
-- Achievement 3: Created a test automation software that used BDD Gherkin language and Excel as inputs to automate the testing of web applications.
-- Achievement 4: Helped in algorithm efficiency testing, setting up logs, and upgrading the entire system libraries in Tiger Analytics to help improve a company package used by all the employees while working on their projects.
-- Achievement 5: Have helped create a system to work with JDA binary files to be directly used to import as planograms in our application.
-- Achievement 6: Created an algorithm from scratch that helps place products in Planogram plans based on the dynamic inputs of the user.
-- Achievement 7: Created a dynamic input clustering mechanism for various stores which helps users to not depend on offline changes for the inputs.
-- Achievement 8: Helped preserve products once placed in planogram, even if there are changes in the grid.
+🤖 Currently exploring Generative AI and how ML can seamlessly integrate into backend architectures.
 
-## Contact
-I’m always open to discussing new opportunities, ideas, and collaborations. Reach out to me at:
+✨ Always open to collaborations, tech talks, and fun side projects!
 
-Email: pmaletia@gmail.com
-LinkedIn: https://www.linkedin.com/in/pmaletia/
-GitHub: https://github.com/pmaletia
-
+📬 Let’s connect!
+🔗 LinkedIn | 🌍 Portfolio
