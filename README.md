@@ -1,21 +1,27 @@
-👋 Hey there, I'm Priyanka Maletia!
-🚀 Software Engineer | System Architect | Cloud & Automation Enthusiast
+👋 Hey there, I'm Priyanka Maletia! 🚀
+Software Engineer | System Thinker | Automation & Scalability Enthusiast
 
-I'm a software engineer with 6+ years of experience designing and building scalable, high-performance backend systems. I love solving complex problems, optimizing architectures, and automating workflows—because why do things manually when you can script them? 😆
+##
+I’m a software engineer with 6+ years of experience turning complex problems into elegant, scalable solutions. I thrive on building systems that are efficient, reliable, and just the right amount of over-engineered (because why not?). If there's a way to automate it, optimize it, or make it smarter—I’m probably already sketching ideas for it.
 
-🔥 What I Do
-Architect and develop microservices & APIs using FastAPI, Flask, and Django
+##
+🔧 What I Love Doing
+Designing systems that make engineers' lives easier
 
-Optimize systems with Docker, Kubernetes, and cloud platforms (Azure, GCP)
+Breaking problems down, then building solutions up
 
-Automate workflows with RabbitMQ, Celery, and CI/CD pipelines
+Turning repetitive tasks into automated magic
 
-Explore Generative AI and how it integrates into backend systems
+Exploring new tools and paradigms—always staying curious
+
+##
 
 ✨ Fun Facts
-💡 I believe logs tell stories—if you read them right, debugging is half the battle won!
-☕ Fueled by coffee and a love for clean, maintainable code.
-🎯 Always learning, always building.
+💡 I treat debugging like detective work—every log is a clue
+☕ Coffee is my co-pilot
+📚 Forever a student, constantly evolving and learning
 
-📬 Contact Me
-📧 Email: pmaletia@gmail.com | 📞 Phone: 8146878490
+📬 Reach Out
+📧 Email: pmaletia@gmail.com
+📞 Phone: 8146878490
+
