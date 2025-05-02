@@ -15,12 +15,12 @@ Turning repetitive tasks into automated magic
 Exploring new tools and paradigms—always staying curious
 
 ##
-
 ✨ Fun Facts
 💡 I treat debugging like detective work—every log is a clue
 ☕ Coffee is my co-pilot
 📚 Forever a student, constantly evolving and learning
 
+##
 📬 Reach Out
 📧 Email: pmaletia@gmail.com
 📞 Phone: 8146878490
